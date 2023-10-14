@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.main-bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-image: linear-gradient(to bottom, #2b2c49, #303150, #b5b9ff);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 400px;
+  border-radius: 12px;
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+}
